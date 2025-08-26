@@ -50,7 +50,7 @@ abstract class waterTank {
 
 class HomeTank extends waterTank {
     public HomeTank() {
-        super(200);
+        super(300);
     }
 }
 
@@ -124,3 +124,4 @@ class WaterTankProgram {
         }
     }
 }
+
